@@ -5,7 +5,7 @@ export default function Contacts() {
   return (
     <ul>
       <Contact
-        href='https://www.linkedin.com/in/blessing-olaleye-139a22204/'
+        href='http://www.linkedin.com/in/jatin-chandra-choudhary-142283238'
         text='Linkedin'
       />
       <Contact
