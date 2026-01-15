@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 
 const title = 'Jatin Choudhary | Software Developer';
 const description =
-  'A software developer, with 4 years of professional exprience, dedicated to creating interactive, accessible, and responsive websites.';
+  'A software developer, dedicated to creating interactive, accessible, and responsive websites.';
 const portfolio = 'https://www.blessingolaleye.xyz';
 
 export const metadata: Metadata = {
@@ -39,7 +39,7 @@ export const metadata: Metadata = {
     title,
     description,
     url: portfolio,
-    siteName: 'Blessing Portfolio',
+    siteName: 'Portfolio',
     images: [
       // {
       // 	url: 'https://nextjs.org/og.png', // Must be an absolute URL
