@@ -3,7 +3,7 @@ import type { Metadata } from 'next';
 const title = 'Jatin Choudhary | Software Developer';
 const description =
   'A software developer, dedicated to creating interactive, accessible, and responsive websites.';
-const portfolio = 'https://www.blessingolaleye.xyz';
+const portfolio = 'https://jatin-choudhary.netlify.app';
 
 export const metadata: Metadata = {
   title,
