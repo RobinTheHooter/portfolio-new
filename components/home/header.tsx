@@ -15,13 +15,13 @@ export default function Header() {
           Frontend Developer
         </p>
         <p className='text-base md:text-lg text-muted-foreground max-w-2xl mx-auto leading-relaxed'>
-          Specializing in building modern, scalable web applications with over{' '}
-          <Link
+          Specializing in building modern, scalable web applications.
+          {/* <Link
             href='/#experience'
             className='font-semibold text-primary hover:underline underline-offset-4 transition-all'
           >
             {yearsOfExperience}+ years of professional experience
-          </Link>
+          </Link> */}
         </p>
       </div>
 
