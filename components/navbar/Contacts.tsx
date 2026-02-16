@@ -14,7 +14,7 @@ export default function Contacts() {
       />
       <Contact href='https://github.com/RobinTheHooter' text='Github' />
       <Contact
-        href='https://docs.google.com/document/d/1u8sv0wNbkGsq2eGa3yHVyOvfn5x294Xsn10QhtdxAOg/edit'
+        href='https://drive.google.com/file/d/1hRRK7_It-Oris8PPZMMatb_Mmz2GWYfj/view?usp=sharing'
         text='Resume'
         className='fixed top-2 right-2 md:static'
       />
